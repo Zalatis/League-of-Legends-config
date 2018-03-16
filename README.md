@@ -11,4 +11,5 @@
 Les .bat sont adaptés à l'emplacement de League of Legends pour Zalati et Zéyos.
 
 Si vous utilisez l'emplacement par défaut de League of Legends vous pouvez utiliser les .bat qui sont sur ce lien pour l'installation rapide:
+
 https://github.com/Zalatis/League-of-Legends-config/tree/master/ConfigInstaller(Basic%20Installation)
