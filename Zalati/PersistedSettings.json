@@ -9,11 +9,11 @@
                     "settings": [
                         {
                             "name": "ChatX",
-                            "value": "3"
+                            "value": "0"
                         },
                         {
                             "name": "ChatY",
-                            "value": "-69"
+                            "value": "0"
                         },
                         {
                             "name": "EnableChatFilter",
@@ -191,6 +191,14 @@
                             "value": "1"
                         },
                         {
+                            "name": "CursorOverride",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CursorScale",
+                            "value": "0.5000"
+                        },
+                        {
                             "name": "EnableAudio",
                             "value": "1"
                         },
@@ -285,7 +293,7 @@
                         },
                         {
                             "name": "GlobalScale",
-                            "value": "0.5000"
+                            "value": "0.2500"
                         },
                         {
                             "name": "GlobalScaleReplay",
@@ -309,11 +317,11 @@
                         },
                         {
                             "name": "ItemShopPrevX",
-                            "value": "311"
+                            "value": "232"
                         },
                         {
                             "name": "ItemShopPrevY",
-                            "value": "22"
+                            "value": "28"
                         },
                         {
                             "name": "ItemShopResizeHeight",
@@ -380,19 +388,11 @@
                             "value": "1"
                         },
                         {
-                            "name": "SB_MirroredCenter_Names",
-                            "value": "0"
-                        },
-                        {
                             "name": "ScrollSmoothingEnabled",
                             "value": "0"
                         },
                         {
                             "name": "ShowAllChannelChat",
-                            "value": "1"
-                        },
-                        {
-                            "name": "ShowAllChannelChatSpectator",
                             "value": "1"
                         },
                         {
@@ -405,10 +405,6 @@
                         },
                         {
                             "name": "ShowFPSAndLatency",
-                            "value": "1"
-                        },
-                        {
-                            "name": "ShowMetrics",
                             "value": "1"
                         },
                         {
@@ -513,7 +509,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.12"
+                            "value": "0.0300"
                         },
                         {
                             "name": "MusicMute",
@@ -521,7 +517,7 @@
                         },
                         {
                             "name": "MusicVolume",
-                            "value": "0.0000"
+                            "value": "0.1500"
                         },
                         {
                             "name": "PingsMute",
@@ -529,7 +525,7 @@
                         },
                         {
                             "name": "PingsVolume",
-                            "value": "0.7000"
+                            "value": "0.5000"
                         },
                         {
                             "name": "SfxMute",
@@ -607,11 +603,11 @@
                         },
                         {
                             "name": "evtChampMasteryDisplay",
-                            "value": "[Ctrl][1]"
+                            "value": "[`]"
                         },
                         {
                             "name": "evtChampionOnly",
-                            "value": "[`]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtChatHistory",
@@ -627,23 +623,23 @@
                         },
                         {
                             "name": "evtEmoteDance",
-                            "value": "[Ctrl][2]"
-                        },
-                        {
-                            "name": "evtEmoteJoke",
                             "value": "[Ctrl][3]"
                         },
                         {
-                            "name": "evtEmoteLaugh",
-                            "value": "[Ctrl][5]"
+                            "name": "evtEmoteJoke",
+                            "value": "[Ctrl][1]"
                         },
                         {
-                            "name": "evtEmoteTaunt",
+                            "name": "evtEmoteLaugh",
                             "value": "[Ctrl][4]"
                         },
                         {
+                            "name": "evtEmoteTaunt",
+                            "value": "[Ctrl][2]"
+                        },
+                        {
                             "name": "evtEmoteToggle",
-                            "value": "[Ctrl][6]"
+                            "value": "[Ctrl][5]"
                         },
                         {
                             "name": "evtLevelSpell1",
@@ -715,7 +711,7 @@
                         },
                         {
                             "name": "evtOnUIMouse4Pan",
-                            "value": "[<Unbound>]"
+                            "value": "[Button 3]"
                         },
                         {
                             "name": "evtOpenShop",
@@ -727,15 +723,15 @@
                         },
                         {
                             "name": "evtPlayerAttackMove",
-                            "value": "[a],[<Unbound>]"
+                            "value": "[<Unbound>],[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[x]"
+                            "value": "[x],"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
-                            "value": ""
+                            "value": "[a],"
                         },
                         {
                             "name": "evtPlayerHoldPosition",
@@ -775,7 +771,7 @@
                         },
                         {
                             "name": "evtRadialEmoteInstantOpen",
-                            "value": "[t],"
+                            "value": "[t]"
                         },
                         {
                             "name": "evtRadialEmoteOpen",
@@ -859,35 +855,35 @@
                         },
                         {
                             "name": "evtSelfCastItem4",
-                            "value": "[Alt][4]"
-                        },
-                        {
-                            "name": "evtSelfCastItem5",
                             "value": "[Alt][5]"
                         },
                         {
-                            "name": "evtSelfCastItem6",
+                            "name": "evtSelfCastItem5",
                             "value": "[Alt][6]"
                         },
                         {
+                            "name": "evtSelfCastItem6",
+                            "value": "[Alt][7]"
+                        },
+                        {
                             "name": "evtSelfCastSpell1",
-                            "value": "[Alt][q],"
+                            "value": "[Alt][q]"
                         },
                         {
                             "name": "evtSelfCastSpell2",
-                            "value": "[Alt][w],"
+                            "value": "[Alt][w]"
                         },
                         {
                             "name": "evtSelfCastSpell3",
-                            "value": "[Alt][e],"
+                            "value": "[Alt][e]"
                         },
                         {
                             "name": "evtSelfCastSpell4",
-                            "value": "[Alt][r],"
+                            "value": "[Alt][r]"
                         },
                         {
                             "name": "evtSelfCastVisionItem",
-                            "value": "[<Unbound>]"
+                            "value": "[Alt][4]"
                         },
                         {
                             "name": "evtShowCharacterMenu",
@@ -911,11 +907,11 @@
                         },
                         {
                             "name": "evtSmartCastAvatarSpell1",
-                            "value": "[<Unbound>]"
+                            "value": "[Shift][d]"
                         },
                         {
                             "name": "evtSmartCastAvatarSpell2",
-                            "value": "[<Unbound>]"
+                            "value": "[Shift][f]"
                         },
                         {
                             "name": "evtSmartCastItem1",
@@ -983,7 +979,7 @@
                         },
                         {
                             "name": "evtSmartCastWithIndicatorItem4",
-                            "value": "[<Unbound>]"
+                            "value": ""
                         },
                         {
                             "name": "evtSmartCastWithIndicatorItem5",
@@ -1261,4 +1257,4 @@
             ]
         }
     ]
-}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+}
