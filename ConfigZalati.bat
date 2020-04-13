@@ -1,4 +1,4 @@
-cd /d C:\Riot Games\Config
+cd /d D:\Riot Games\Config
 copy game.cfg game.bck
 copy input.ini input.bck
 copy PersistedSettings.json PersistedSettings.bck
