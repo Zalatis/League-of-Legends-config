@@ -1,4 +1,4 @@
-cd /d D:\Riot Games\Config
+cd /d "D:\Riot Games\League of Legends\Config"
 copy game.cfg game.bck
 copy input.ini input.bck
 copy PersistedSettings.json PersistedSettings.bck
