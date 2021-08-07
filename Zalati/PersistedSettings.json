@@ -41,6 +41,22 @@
                             "value": "1"
                         },
                         {
+                            "name": "NativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "ReplayNativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "ReplayNativeOffsetY",
+                            "value": "0.0000"
+                        },
+                        {
                             "name": "Transparency",
                             "value": "0.0000"
                         }
@@ -67,6 +83,10 @@
                             "value": "1"
                         },
                         {
+                            "name": "Damage_Enabled",
+                            "value": "1"
+                        },
+                        {
                             "name": "Debug_Enabled",
                             "value": "1"
                         },
@@ -76,6 +96,10 @@
                         },
                         {
                             "name": "Dodge_Enabled",
+                            "value": "1"
+                        },
+                        {
+                            "name": "EnemyDamage_Enabled",
                             "value": "1"
                         },
                         {
@@ -213,7 +237,7 @@
                         },
                         {
                             "name": "CfgVersion",
-                            "value": "10.7.9802"
+                            "value": "11.15.389.2308"
                         },
                         {
                             "name": "CursorOverride",
@@ -306,6 +330,10 @@
                         },
                         {
                             "name": "EmotePopupUIDisplayMode",
+                            "value": "0"
+                        },
+                        {
+                            "name": "EmoteSize",
                             "value": "0"
                         },
                         {
@@ -433,6 +461,10 @@
                             "value": "0"
                         },
                         {
+                            "name": "ShopScale",
+                            "value": "0.4444"
+                        },
+                        {
                             "name": "ShowAllChannelChat",
                             "value": "1"
                         },
@@ -454,6 +486,10 @@
                         },
                         {
                             "name": "ShowFPSAndLatency",
+                            "value": "1"
+                        },
+                        {
+                            "name": "ShowHealthBarShake",
                             "value": "1"
                         },
                         {
@@ -507,6 +543,39 @@
                     ]
                 },
                 {
+                    "name": "ItemShop",
+                    "settings": [
+                        {
+                            "name": "BootsPanelPinned",
+                            "value": "0"
+                        },
+                        {
+                            "name": "ConsumablesPanelPinned",
+                            "value": "0"
+                        },
+                        {
+                            "name": "CurrentTab",
+                            "value": "2"
+                        },
+                        {
+                            "name": "InventoryPanelPinned",
+                            "value": "0"
+                        },
+                        {
+                            "name": "InvertDisplayOrder",
+                            "value": "0"
+                        },
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.1391"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "-0.0491"
+                        }
+                    ]
+                },
+                {
                     "name": "LossOfControl",
                     "settings": [
                         {
@@ -538,6 +607,14 @@
                         {
                             "name": "ChatY",
                             "value": "276"
+                        },
+                        {
+                            "name": "NativeOffsetX",
+                            "value": "0.0000"
+                        },
+                        {
+                            "name": "NativeOffsetY",
+                            "value": "0.0000"
                         }
                     ]
                 },
@@ -802,11 +879,11 @@
                         },
                         {
                             "name": "evtPlayerAttackMove",
-                            "value": "[<Unbound>],[<Unbound>]"
+                            "value": "[a],[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerAttackMoveClick",
-                            "value": "[a]"
+                            "value": "[Shift] [Button 2]"
                         },
                         {
                             "name": "evtPlayerAttackOnlyClick",
@@ -822,7 +899,7 @@
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[Button 4]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtPlayerPingComeHere",
