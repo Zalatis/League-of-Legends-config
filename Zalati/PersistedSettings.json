@@ -665,7 +665,7 @@
                         },
                         {
                             "name": "MasterVolume",
-                            "value": "0.12"
+                            "value": "0.1200"
                         },
                         {
                             "name": "MusicMute",
@@ -871,7 +871,7 @@
                         },
                         {
                             "name": "evtOpenShop",
-                            "value": "[p]"
+                            "value": "[<Unbound>]"
                         },
                         {
                             "name": "evtPetMoveClick",
@@ -899,7 +899,7 @@
                         },
                         {
                             "name": "evtPlayerPingAreaIsWarded",
-                            "value": "[<Unbound>]"
+                            "value": "[Button 4],"
                         },
                         {
                             "name": "evtPlayerPingComeHere",
@@ -1043,7 +1043,7 @@
                         },
                         {
                             "name": "evtShowCharacterMenu",
-                            "value": "[x]"
+                            "value": "[x],"
                         },
                         {
                             "name": "evtShowHealthBars",
