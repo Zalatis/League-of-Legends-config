@@ -871,7 +871,7 @@
                         },
                         {
                             "name": "evtOpenShop",
-                            "value": "[<Unbound>]"
+                            "value": "[p],"
                         },
                         {
                             "name": "evtPetMoveClick",
