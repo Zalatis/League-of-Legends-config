@@ -1,7 +1,7 @@
-cd /d "D:\Riot Games\League of Legends\Config"
+cd /d "C:\Riot Games\League of Legends\Config"
 copy game.cfg game.bck
 copy input.ini input.bck
 copy PersistedSettings.json PersistedSettings.bck
-bitsadmin /transfer "ConfigLoL" https://raw.githubusercontent.com/Zalatis/League-of-Legends-config/master/Zalati/game.cfg "C:\Riot Games\Config\game.cfg"
-bitsadmin /transfer "ConfigLoL" https://raw.githubusercontent.com/Zalatis/League-of-Legends-config/master/Zalati/input.ini "C:\Riot Games\Config\input.ini"
-bitsadmin /transfer "ConfigLoL" https://raw.githubusercontent.com/Zalatis/League-of-Legends-config/master/Zalati/PersistedSettings.json "C:\Riot Games\Config\PersistedSettings.json"
+%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe -command "Start-BitsTransfer -Source https://raw.githubusercontent.com/Zalatis/League-of-Legends-config/master/Zalati/game.cfg -Destination game.cfg"
+%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe -command "Start-BitsTransfer -Source https://raw.githubusercontent.com/Zalatis/League-of-Legends-config/master/Zalati/input.ini -Destination input.ini"
+%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe -command "Start-BitsTransfer -Source https://raw.githubusercontent.com/Zalatis/League-of-Legends-config/master/Zalati/PersistedSettings.json -Destination PersistedSettings.json"
