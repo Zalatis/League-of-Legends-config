@@ -486,7 +486,7 @@
                         },
                         {
                             "name": "MinimapEnableAllTimers",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "MinimapMoveSelf",
