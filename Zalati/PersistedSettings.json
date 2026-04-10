@@ -354,7 +354,7 @@
                         },
                         {
                             "name": "ChatChannelVisibility",
-                            "value": "0"
+                            "value": "2"
                         },
                         {
                             "name": "ChatScale",
@@ -414,7 +414,7 @@
                         },
                         {
                             "name": "GlobalScale",
-                            "value": "0.0000"
+                            "value": "0.2500"
                         },
                         {
                             "name": "GlobalScaleReplay",
@@ -606,7 +606,7 @@
                         },
                         {
                             "name": "ShowSpellCosts",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "ShowSpellRecommendations",
@@ -630,7 +630,7 @@
                         },
                         {
                             "name": "ShowTimestamps",
-                            "value": "0"
+                            "value": "1"
                         },
                         {
                             "name": "SmartCastOnKeyRelease",
